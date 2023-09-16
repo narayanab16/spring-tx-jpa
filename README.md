@@ -3,7 +3,7 @@
 -  Prereq: Java 18 or Java 20, IntelliJ
 -  Please create a dir in D:/test/h2db or you /path/to/folder
 -  RunDBServer.java uses H2 in server mode
--  DB access url: http://192.168.56.1:8082
+-  DB access url: http://localhost:8082
 -  JVM options must : --add-opens java.base/java.lang=ALL-UNNAMED
 -  RdbmsApplication.java start the rest app
 -  Test concurrency example of the same account with withdraw money
