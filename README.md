@@ -1,4 +1,4 @@
-# spring-tx-jpa
+# Spring-tx-with-JPA, H2 Database server
 
 -  Prereq: Java 18 or Java 20, IntelliJ
 -  Please create a dir in D:/test/h2db or you /path/to/folder
