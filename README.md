@@ -1,6 +1,6 @@
 # Spring-tx-with-JPA, H2 Database server
 
--  Prereq: Java 18 or Java 20, IntelliJ
+-  Prereq: Java 8 or [Java 18 or Java 20(I am using)], IntelliJ
 -  Please create a dir in D:/test/h2db or you /path/to/folder
 -  RunDBServer.java uses H2 in server mode
 -  DB access url: http://localhost:8082
